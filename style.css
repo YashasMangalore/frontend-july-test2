@@ -179,8 +179,10 @@ button.get-started:hover {
     background-color: #777;
 }
 
-@media (max-width: 768px) {
-    .card-container {
+@media (max-width: 768px) 
+{
+    .card-container 
+    {
         grid-template-areas: 
             "card1"
             "card2"
