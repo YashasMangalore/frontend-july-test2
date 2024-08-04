@@ -1,0 +1,726 @@
+/* Desktop View */
+
+position: relative;
+width: 1728px;
+height: 1117px;
+
+background: #1A1C19;
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1687px;
+height: 63px;
+left: 19px;
+top: 18px;
+
+border: 1px solid #B1A592;
+border-radius: 50px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 282px;
+height: 50px;
+left: 26px;
+top: 24px;
+
+background: #323025;
+border-radius: 50px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 236px;
+height: 50px;
+left: 319px;
+top: 24px;
+
+background: #B1A592;
+border-radius: 50px;
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 50px;
+left: 566px;
+top: 24px;
+
+border: 1px solid #B1A592;
+border-radius: 50px;
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 184px;
+height: 50px;
+left: 784px;
+top: 24px;
+
+border: 1px solid #B1A592;
+border-radius: 50px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 184px;
+height: 50px;
+left: 1513px;
+top: 24px;
+
+border: 1px solid #B1A592;
+border-radius: 50px;
+
+
+/* Company */
+
+position: absolute;
+width: 108px;
+height: 29px;
+left: 113px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+
+
+
+/* Collections */
+
+position: absolute;
+width: 126px;
+height: 29px;
+left: 374px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #333333;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 64px;
+height: 29px;
+left: 638px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+
+
+
+/* Menu */
+
+position: absolute;
+width: 64px;
+height: 29px;
+left: 638px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+
+
+
+/* Events */
+
+position: absolute;
+width: 77px;
+height: 29px;
+left: 837px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 91px;
+height: 29px;
+left: 1566px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #B1A592;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 667px;
+height: 981px;
+left: 35px;
+top: 99px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 667px;
+height: 981px;
+left: 35px;
+top: 99px;
+
+background: #DFD6C5;
+border-radius: 30px;
+
+
+/* Screenshot 2023-03-29 at 7.26 1 */
+
+position: absolute;
+width: 631px;
+height: 730px;
+left: 53px;
+top: 224px;
+
+background: url(Screenshot 2023-03-29 at 7.26.png);
+border-radius: 20px;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 207px;
+height: 34px;
+left: 53px;
+top: 132px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 34px;
+left: 53px;
+top: 132px;
+
+border: 1px solid #323025;
+border-radius: 50px;
+
+
+/* LOREUMIPSUM */
+
+position: absolute;
+width: 146px;
+height: 24px;
+left: 84px;
+top: 137px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #323025;
+
+
+
+/* Loreum Ipsum Heading */
+
+position: absolute;
+width: 271px;
+height: 29px;
+left: 53px;
+top: 176px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-decoration-line: underline;
+
+color: #333333;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 666px;
+height: 0px;
+left: 36px;
+top: 989px;
+
+border: 1px solid #333333;
+
+
+/* Get Started */
+
+position: absolute;
+width: 133px;
+height: 29px;
+left: 57px;
+top: 1008px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #333333;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 25px;
+height: 0px;
+left: 659px;
+top: 1023px;
+
+border: 2px solid #323025;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 405px;
+height: 597px;
+left: 729px;
+top: 480px;
+
+background: #916E58;
+border-radius: 30px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 525px;
+height: 597px;
+left: 1161px;
+top: 480px;
+
+background: #B1A48E;
+border-radius: 30px;
+
+
+/* Portrait */
+
+position: absolute;
+width: 304px;
+height: 59px;
+left: 749px;
+top: 678px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-decoration-line: underline;
+
+color: #333333;
+
+
+
+/* Portrait */
+
+position: absolute;
+width: 304px;
+height: 59px;
+left: 1192px;
+top: 601px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-decoration-line: underline;
+
+color: #333333;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 404.39px;
+height: 0px;
+left: 730px;
+top: 989px;
+
+border: 1px solid #333333;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 525px;
+height: 0px;
+left: 1161px;
+top: 989px;
+
+border: 1px solid #333333;
+
+
+/* Get Started */
+
+position: absolute;
+width: 184px;
+height: 17px;
+left: 744px;
+top: 1014px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #333333;
+
+
+
+/* Get Started */
+
+position: absolute;
+width: 239px;
+height: 17px;
+left: 1179px;
+top: 1014px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #333333;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 15.18px;
+height: 0px;
+left: 1106px;
+top: 1031px;
+
+border: 2px solid #323025;
+
+
+/* Arrow 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 20px;
+height: 0px;
+left: 1649px;
+top: 1031px;
+
+border: 2px solid #323025;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 967px;
+height: 356px;
+left: 719px;
+top: 99px;
+
+background: #8E886D;
+border-radius: 30px;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 207px;
+height: 34px;
+left: 737px;
+top: 132px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 34px;
+left: 737px;
+top: 132px;
+
+border: 1px solid #323025;
+border-radius: 50px;
+
+
+/* LOREUMIPSUM */
+
+position: absolute;
+width: 146px;
+height: 24px;
+left: 768px;
+top: 137px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #323025;
+
+
+
+/* Loreum Ipsum Heading */
+
+position: absolute;
+width: 271px;
+height: 29px;
+left: 737px;
+top: 176px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-decoration-line: underline;
+
+color: #333333;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 967px;
+height: 0px;
+left: 719px;
+top: 390px;
+
+border: 1px solid #333333;
+
+
+/* Get Started */
+
+position: absolute;
+width: 194px;
+height: 29px;
+left: 749px;
+top: 409px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #333333;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 0px;
+left: 1624px;
+top: 424px;
+
+border: 2px solid #323025;
+
+
+/* Screenshot 2023-03-29 at 7.30 1 */
+
+position: absolute;
+width: 523px;
+height: 235px;
+left: 1134px;
+top: 132px;
+
+background: url(Screenshot 2023-03-29 at 7.30.png);
+border-radius: 20px;
+
+
+/* Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text */
+
+position: absolute;
+width: 382px;
+height: 72px;
+left: 738px;
+top: 228px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #333333;
+
+
+
+/* Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text */
+
+position: absolute;
+width: 382px;
+height: 216px;
+left: 738px;
+top: 747px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text Loreum Ipsum Text */
+
+position: absolute;
+width: 485px;
+height: 312px;
+left: 1132px;
+top: 664px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #333333;
+
+
+
+/* Screenshot 2023-03-29 at 7.34 1 */
+
+position: absolute;
+width: 385px;
+height: 168px;
+left: 736px;
+top: 492px;
+
+background: url(Screenshot 2023-03-29 at 7.34);
+border-radius: 20px;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 207px;
+height: 35px;
+left: 1179px;
+top: 530px;
+
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 35px;
+left: 1179px;
+top: 530px;
+
+border: 1px solid #323025;
+border-radius: 50px;
+
+
+/* LOREUMIPSUM */
+
+position: absolute;
+width: 146px;
+height: 24.71px;
+left: 1210px;
+top: 535.15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #323025;
+

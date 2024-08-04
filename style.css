@@ -1,0 +1,217 @@
+body {
+    font-family: var(--s-font-2abd927f);
+    background-color: #111;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 30px;
+    border: 1px solid #E0D6C2;
+    list-style: none;
+    padding: 4px;
+    gap: 5px;
+    background-color: #222;
+}
+
+header nav ul li {
+    color: #1A1C19;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+    width: 250px;
+    max-width: 550px;
+    font-size: 14px;
+    border: 1px solid #E0D6C2;
+    padding: 10px;
+    border-radius: 30px;
+}
+.museo-main {
+    border: none;
+    width: 200%;
+    background-color: #343124;
+}
+.museo-main:hover{
+    border:none;
+    width:1000px;
+    background-color: #343124;
+}
+.museo-main:hover a{
+    color: #E0D6C2;
+    border:none;
+    width:1000px;
+    background-color: #343124;
+}
+header nav ul li:hover {
+    background-color: #E0D6C2;
+}
+
+header nav ul li:hover a {
+    color: #1A1C19;
+}
+
+header nav ul li a {
+    color: #E0D6C2;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.birm-street {
+    width: 50%;
+    font-style: var(--s-font-2abd927f);
+    font-weight: 400;
+    height: 100%;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.port-street {
+    padding-left: 2px;
+    width: 30%;
+    font-style: var(--s-font-2abd927f);
+    font-weight: 400;
+    height: 100%;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+
+
+.card-1, .card-3, .card-4 {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 400px;
+    width: 400px;
+}
+.card-2{
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    /* margin: 5px; */
+    height: 400px;
+    width: 900px;
+}
+.card-1 img {
+    width: 100%;
+    height: 600px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+.card-2 img {
+    width: 600px;
+    height: 350px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.card-3 img{
+    width:100%;
+    height:40%;
+    border-radius: 10px;
+}
+.card-4 img{
+    width:20%;
+    height:100%;
+    border-radius: 50%;
+}
+.img-align{
+    width:100%;
+    height:80px;
+    /* border:1px solid black; */
+}
+
+.card-1:hover img, .card-2:hover img, .card-3:hover img, .card-4:hover img {
+    transform: scale(1.03);
+}
+/* .card-container{
+    display: grid;
+    gap:2px;
+    grid-template-areas:"card-1 card-1 card-2"
+    "card-1 card-3 card-4";
+    grid-template-columns: repeat(3,1r);
+
+} */
+ .card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "card1 card2 card2"
+    "card1 card3 card4";
+    padding: 20px;
+ }
+ .card-1{
+    grid-area: card1;
+    height:95%;
+ }
+ .card-2{
+    grid-area: card2;
+    /* width:60%; */
+ }
+ .card-3{
+    grid-area: card3;
+    /* height:950px; */
+ }
+ .card-4{
+    grid-area: card4;
+    font-weight: 800;
+ }
+button.get-started {
+    background-color: #343124;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    color: #E0D6C2;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+button.get-started:hover {
+    transform: scale(1.05);
+    background-color: #777;
+}
+
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-areas: 
+            "card1"
+            "card2"
+            "card3"
+            "card4";
+        grid-template-columns: 1fr;
+    }
+
+    .card-1, .card-2, .card-3, .card-4 {
+        height: 450px; /* Adjust height for smaller screens */
+    }
+
+    .card-1 img, .card-2 img, .card-3 img {
+        height: 60%; /* Adjust height for smaller screens */
+    }
+    .card-4 img{
+        height: 15%;
+        width:15%;
+    }
+}
+
+#birmingham {
+    background-color: #E0D6C2;
+    color: #342415;
+}
+
+#woman-slicing {
+    background-color: #8F8868;
+    color: #342415;
+}
+
+#portrait {
+    background-color: #976C54;
+    color: #342415;
+}
+
+#vintage {
+    background-color: #B5A38D;
+    color: #342415;
+}
